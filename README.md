@@ -1,2 +1,5 @@
 # Discord-IP-Grabber
 Discord IP Grabber
+DOWNLOAD AND INSTALL,
+FOLLOW GUI STEPS.
+ENOJY!
